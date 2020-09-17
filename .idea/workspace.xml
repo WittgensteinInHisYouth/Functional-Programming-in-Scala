@@ -24,6 +24,10 @@
   <component name="ChangeListManager">
     <list default="true" id="ed00fc23-d9b6-41d4-9264-6d9ba3e38a0f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functional Programming Principles in Scala/funsets/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/Functional Programming Principles in Scala/funsets/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functional Programming Principles in Scala/funsets/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/Functional Programming Principles in Scala/funsets/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functional Programming Principles in Scala/funsets/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/Functional Programming Principles in Scala/funsets/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functional Programming Principles in Scala/funsets/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/Functional Programming Principles in Scala/funsets/target/.history" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +84,7 @@
       <updated>1599621649452</updated>
       <workItem from="1599621651055" duration="199000" />
       <workItem from="1600351539534" duration="5160000" />
+      <workItem from="1600357425888" duration="561000" />
     </task>
     <servers />
   </component>
@@ -96,6 +101,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600357147575">
