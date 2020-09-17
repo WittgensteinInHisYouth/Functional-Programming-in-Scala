@@ -11,7 +11,7 @@ object RecFun extends RecFunInterface {
         print(s"${pascal(col, row)} ")
       println()
     }
-    println("Balanced Parathesis")
+    println("Balanced Parenthesis")
     print(s"${balance("(if (zero? x) max (/ 1 x))".toList)}")
     println()
     print(s"${balance("I told him (that it’s not (yet) done). (But he wasn’t listening)".toList)}")
