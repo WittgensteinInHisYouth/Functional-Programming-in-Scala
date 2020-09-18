@@ -1,4 +1,20 @@
-[0m[[0m[0minfo[0m] [0m[0mUpdating funsets[0m
-[0m[[0m[0minfo[0m] [0m[0mResolved funsets dependencies[0m
-[0m[[0m[0minfo[0m] [0m[0mUpdating funsets[0m
-[0m[[0m[0minfo[0m] [0m[0mResolved funsets dependencies[0m
+[error] coursier.error.ResolutionError$Several: Error downloading org.scala-lang:scala-library:2.13.0
+[error]   Not found
+[error]   Not found
+[error]   not found: C:\Users\apply\.ivy2\local\org.scala-lang\scala-library\2.13.0\ivys\ivy.xml
+[error]   wrong checksum: C:\Users\apply\Desktop\JYH\Functional-Programming-in-Scala\Functional Programming Principles in Scala\funsets\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.0\scala-library-2.13.0.pom (expected SHA-1 180c5d85684da7a26042939df4c942216ef8dbae in C:\Users\apply\Desktop\JYH\Functional-Programming-in-Scala\Functional Programming Principles in Scala\funsets\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.0\.scala-library-2.13.0.pom__sha1, got cab3718916fa09812d3117253bec0c57f80d7706)
+[error] Error downloading com.novocode:junit-interface:0.11
+[error]   Not found
+[error]   Not found
+[error]   not found: C:\Users\apply\.ivy2\local\com.novocode\junit-interface\0.11\ivys\ivy.xml
+[error]   wrong checksum: C:\Users\apply\Desktop\JYH\Functional-Programming-in-Scala\Functional Programming Principles in Scala\funsets\null\Coursier\cache\v1\https\repo1.maven.org\maven2\com\novocode\junit-interface\0.11\junit-interface-0.11.pom (expected SHA-1 d3eba8fe064dfb9db59c7b26f9ee1a5f7344bfde in C:\Users\apply\Desktop\JYH\Functional-Programming-in-Scala\Functional Programming Principles in Scala\funsets\null\Coursier\cache\v1\https\repo1.maven.org\maven2\com\novocode\junit-interface\0.11\.junit-interface-0.11.pom__sha1, got eeacbd7ead1e0247b1c490d5f8ea2c63579a9d69)
+[error] 	at coursier.error.ResolutionError$.from(ResolutionError.scala:101)
+[error] 	at coursier.Resolve.validate0$1(Resolve.scala:144)
+[error] 	at coursier.Resolve.$anonfun$ioWithConflicts0$4(Resolve.scala:186)
+[error] 	at coursier.util.Task$.$anonfun$flatMap$2(Task.scala:14)
+[error] 	at scala.concurrent.Future.$anonfun$flatMap$1(Future.scala:303)
+[error] 	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:37)
+[error] 	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:60)
+[error] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+[error] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+[error] 	at java.lang.Thread.run(Thread.java:748)
